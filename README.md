@@ -26,6 +26,8 @@
 
 ### Advance
   + [Entities-Parts I: Game Objects](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-i-game-objects-r3596)
+  + [Entities-Parts II: Interactions](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-ii-interactions-r3617)
+  + [Entities-Parts III: Serialization](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-iii-serialization-r3663)
 
 ### Resources
 #### Courses
