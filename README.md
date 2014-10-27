@@ -8,6 +8,8 @@
 + [Advance](#advance)
 + [Resources](#resources)
 
+*Note that the level seperate is based on my suggestion. The suggestions may vary for different people*
+
 ### Introduction
 
 ### Motivation
@@ -19,6 +21,7 @@
 ### Intermediate
 
 ### Advance
+  + [Entities-Parts I: Game Objects](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-i-game-objects-r3596)
 
 ### Resources
 
