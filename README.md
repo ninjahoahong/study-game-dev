@@ -7,7 +7,7 @@
 + [Intermediate](#intermediate)
 + [Advance](#advance)
 + [Resources](#resources)
-  + [Arts](#arts)
+  + [Graphics](#graphics)
   + [Sounds](#sounds)
   + [Courses](#courses)
 
@@ -30,7 +30,13 @@
   + [Entities-Parts III: Serialization](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-iii-serialization-r3663)
 
 ### Resources
-  #### Courses
+
+#### Graphics
+  + [Glitch give away arts](http://www.glitchthegame.com/public-domain-game-art/)
+
+#### Sounds
+
+#### Courses
   + [Introduction to Game Design](https://www.edx.org/course/mitx/mitx-11-126x-introduction-game-design-2881#.VE21qx9sY8o)
 
 ##### Thanks for the reading. Hope it is useful.
