@@ -14,7 +14,7 @@
 *Note that the level seperate is based on my suggestion. The suggestions may vary for different people*
 
 ### Introduction
-  
+  + [What is a game?](http://www.thegamesjournal.com/articles/WhatIsaGame.shtml)
 
 ### Motivation
   
@@ -30,7 +30,7 @@
   + [Entities-Parts III: Serialization](http://www.gamedev.net/page/resources/_/technical/game-programming/entities-parts-iii-serialization-r3663)
 
 ### Resources
-#### Courses
+  #### Courses
   + [Introduction to Game Design](https://www.edx.org/course/mitx/mitx-11-126x-introduction-game-design-2881#.VE21qx9sY8o)
 
 ##### Thanks for the reading. Hope it is useful.
